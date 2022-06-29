@@ -1,1 +1,1 @@
-# Predicting-the-Hpose-Price
+# Predicting-the-House-Price
